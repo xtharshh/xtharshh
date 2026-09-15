@@ -119,20 +119,21 @@ const harsh = {
 ## 📊 GitHub in Motion
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xtharshh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtharshh&theme=tokyonight" alt="stats" />
   <img height="160" src="https://streak-stats.demolab.com?user=xtharshh&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtharshh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xtharshh&theme=tokyonight" alt="top langs" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xtharshh&theme=tokyonight" alt="commit langs" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xtharshh&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xtharshh&theme=tokyonight&utcOffset=5.5" alt="productive time" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=xtharshh&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" alt="trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtharshh&theme=tokyonight" alt="profile details" />
 </p>
 
 ## 🐍 Watch my contributions get eaten
