@@ -37,6 +37,14 @@ const harsh = {
   currentFocus: "Mythra — Story + AI + Clues game",
   liveAt: "https://www.mythio.me",
   stack: ["TypeScript", "JavaScript", "Python", "React/Next.js", "Node.js", "Dart"],
+  skills: {
+    frontend: ["React 19", "Next.js 16", "Vite", "React Router 7", "TailwindCSS", "shadcn/ui", "Radix UI", "Three.js / R3F + Drei", "Framer Motion", "GSAP"],
+    backend: ["Node.js", "Express.js", "Fastify", "REST APIs", "NextAuth", "Passport.js + OAuth2", "Flask", "EJS"],
+    databases: ["MongoDB + Mongoose", "PostgreSQL + Neon", "SQLite"],
+    ai_video: ["Vercel AI SDK", "Google Gemini", "PyTorch + CUDA", "XTTS-v2 / Piper TTS", "faster-whisper", "Wav2Lip / SadTalker", "OpenCV + FFmpeg", "HuggingFace Hub"],
+    mobile_desktop: ["Flutter / Dart", "Python servers", "Cross-platform native plugins"],
+    tooling: ["Zod", "Zustand", "Vitest", "Vercel", "Cloudinary", "Auth + bcrypt", "Git"],
+  },
   passions: ["AI experiences", "story-driven games", "clean UI", "shipping fast"],
   hireable: true,
   funFact: "I turn ideas into playable products."
